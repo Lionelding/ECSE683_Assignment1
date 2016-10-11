@@ -1,0 +1,15 @@
+Zero_var
+
+	poly=1.5
+	opt=50
+
+5_var
+	poly=0.25
+	opt=5
+10_var
+	poly=0.1
+	opt=0.5
+
+25_var	
+	poly=0.1
+	opt=0.5
